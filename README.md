@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MortenMinstemann
 - 👀 I’m interested in lowCode
-- 🌱 I’m currently learning more than I can chew
+- 🌱 I’m currently learning github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
